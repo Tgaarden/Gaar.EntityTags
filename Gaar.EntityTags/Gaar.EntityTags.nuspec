@@ -8,7 +8,7 @@
     <owners>Tgaarden</owners>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/Tgaarden/Gaar.EntityTags</projectUrl>
-    <icon>GaarLogo.png</icon>
+    <iconUrl>https://raw.githubusercontent.com/Tgaarden/Gaar.EntityTags/main/Gaar.EntityTags/GaarLogo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Handles ETag for controllers</description>
     <releaseNotes></releaseNotes>
