@@ -8,7 +8,7 @@
     <owners>Tgaarden</owners>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/Tgaarden/Gaar.EntityTags</projectUrl>
-    <iconUrl>https://www.oxx.no/icons/oxx-icon.png</iconUrl>
+    <icon>GaarLogo.png</icon>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Handles ETag for controllers</description>
     <releaseNotes></releaseNotes>
@@ -21,7 +21,7 @@
       <dependency id="Microsoft.Web.Infrastructure" version="1.0.0.0" />
     </dependencies>
     <summary>Provides attributes for handling ETag and functions to refresh</summary>
-  </metadata>
+</metadata>
   <files>
     <!-- Add a readme -->
     <file src="readme.txt" target="" />

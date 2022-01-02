@@ -74,6 +74,7 @@
     <None Include="content\web.config.transform" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="GaarLogo.png" />
     <Content Include="readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
