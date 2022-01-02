@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaar.EntityTags", "OXX.Backend.EntityTag\Gaar.EntityTags.csproj", "{6061BBF8-A96F-442F-97A1-0296A1BF131A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{D425A6E9-E207-47F3-9E51-DE30B7799574}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6061BBF8-A96F-442F-97A1-0296A1BF131A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6061BBF8-A96F-442F-97A1-0296A1BF131A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6061BBF8-A96F-442F-97A1-0296A1BF131A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6061BBF8-A96F-442F-97A1-0296A1BF131A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFE819A-DD92-4560-8C6B-0F5451402E75}
+	EndGlobalSection
+EndGlobal

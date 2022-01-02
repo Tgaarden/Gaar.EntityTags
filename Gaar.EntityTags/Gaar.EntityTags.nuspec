@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>OXX.Backend.EntityTags</id>
+    <version>1.0.2</version>
+    <title>OXX Backend EntityTags</title>
+    <authors>Thomas Gaarden, Erik Østensen</authors>
+    <owners>OXX AS</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/OXXAS/OXX.Backend.EntityTag</projectUrl>
+    <iconUrl>https://www.oxx.no/icons/oxx-icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Handles ETag for controllers</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019 OXX AS</copyright>
+    <tags>entitytags etag nuget</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Mvc" version="5.2.7" />
+      <dependency id="Microsoft.AspNet.Razor" version="3.2.7" />
+      <dependency id="Microsoft.AspNet.WebPages" version="3.2.7" />
+      <dependency id="Microsoft.Web.Infrastructure" version="1.0.0.0" />
+    </dependencies>
+    <summary>Provides attributes for handling ETag and functions to refresh</summary>
+  </metadata>
+  <files>
+    <!-- Add a readme -->
+    <file src="readme.txt" target="" />
+    <file src="content\web.config.transform" target="content" />
+    <file src="bin\Release\OXX.Backend.EntityTag.dll" target="lib" />
+  </files>
+</package>

@@ -1,0 +1,9 @@
+﻿<configuration>
+  <system.webServer>
+    <httpProtocol>
+      <customHeaders>
+        <add name="Access-Control-Expose-Headers" value="ETag, Retry-After"/>
+      </customHeaders>
+    </httpProtocol>
+  </system.webServer>
+</configuration>
