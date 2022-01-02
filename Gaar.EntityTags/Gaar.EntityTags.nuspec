@@ -11,6 +11,7 @@
     <iconUrl>https://raw.githubusercontent.com/Tgaarden/Gaar.EntityTags/main/Gaar.EntityTags/GaarLogo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Handles ETag for controllers</description>
+    <documentation src="documentation.md" />
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2022 Gaar</copyright>
     <tags>entitytags etag nuget</tags>

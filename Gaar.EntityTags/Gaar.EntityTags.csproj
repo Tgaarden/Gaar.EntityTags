@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="GaarLogo.png" />
+    <None Include="documentation.md" />
     <Content Include="readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
