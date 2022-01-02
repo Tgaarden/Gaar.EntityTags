@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaar.EntityTags", "OXX.Backend.EntityTag\Gaar.EntityTags.csproj", "{6061BBF8-A96F-442F-97A1-0296A1BF131A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaar.EntityTags", "Gaar.EntityTags\Gaar.EntityTags.csproj", "{6061BBF8-A96F-442F-97A1-0296A1BF131A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{D425A6E9-E207-47F3-9E51-DE30B7799574}"
 	ProjectSection(SolutionItems) = preProject
